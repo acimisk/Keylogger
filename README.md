@@ -1,4 +1,4 @@
 # Keylogger
 Klavye vuruşlarını kaydeden spyware
-#UYARI
+# UYARI
 Uygulamayı kötüye kullanmayınız sadece eğitim amaçlıdır
