@@ -5,3 +5,5 @@ Uygulamayı kötüye kullanmayınız sadece eğitim amaçlıdır
 # Kullanım
 1 . VS Studioda projeyi açın
 2 . Build edin
+# Video
+https://youtu.be/twDZT9kGCpw
